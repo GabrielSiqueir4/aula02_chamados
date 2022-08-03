@@ -1,4 +1,4 @@
-# aula02_agenda
+# aula02_chamados
 
 Disciplina SI21405 - Projeto para Dispositivos Móveis (T01)
 
