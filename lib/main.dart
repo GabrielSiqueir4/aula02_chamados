@@ -1,7 +1,6 @@
-// ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
-
-import 'package:agenda/cadastro/models/chamado.dart';
-import 'package:agenda/cadastro/widgets/custom_text_field.dart';
+// ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructo
+import 'package:chamados/cadastro/models/chamado.dart';
+import 'package:chamados/cadastro/widgets/custom_text_field.dart';
 import 'package:flutter/material.dart';
 
 void main() {
